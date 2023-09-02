@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>John&#39;s Photography Portfolio on John&#39;s Portfolio</title>
+    <link>/</link>
+    <description>Recent content in John&#39;s Photography Portfolio on John&#39;s Portfolio</description>
+    
+    <language>en-us</language>
+    <copyright>© John Nguyen 2023-24</copyright>
+    <lastBuildDate>Fri, 01 Sep 2023 19:15:28 -0700</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" /><item>
+      <title>Sheldon</title>
+      <link>/sheldon/</link>
+      <pubDate>Fri, 01 Sep 2023 19:35:17 -0700</pubDate>
+      
+      <guid>/sheldon/</guid><media:content url="/sheldon/books_space_hu3fc53b934e5804bbff83c7b819d99193_2127376_900x600_fill_q100_lanczos_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;/sheldon/books_space_hu3fc53b934e5804bbff83c7b819d99193_2127376_900x600_fill_q100_lanczos_smart1.jpg&quot; /&gt;
+          &lt;p&gt;Photos taken at Sheldon High School&lt;/p&gt;
+        </description></item>
+  </channel>
+</rss>

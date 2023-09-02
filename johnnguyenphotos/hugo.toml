@@ -1,0 +1,61 @@
+title = "John's Portfolio"
+languageCode = "en-us"
+copyright = "© John Nguyen 2023-24"
+disableKinds = ["taxonomy", "term"]
+defaultContentLanguage = "en"
+enableRobotsTXT = true
+timeZone = "America/Los_Angeles"
+theme = "gallery"
+
+[params]
+  title = "John's Portfolio"
+  description = "John Nguyen's photography portfolio for the 2023-24 school year"
+  defaultTheme = "dark"
+
+[author]
+  name = "John Nguyen"
+
+[outputs]
+  page = ["HTML"]
+  home = ["HTML", "RSS"]
+  section = ["HTML"]
+
+[imaging]
+  resampleFilter = "Lanczos"
+  quality = 100
+  [imaging.exif]
+    disableDate = false
+    disableLatLong = true
+    includeFields = "ImageDescription"
+
+[module]
+  [module.hugoVersion]
+    extended = false
+    min = "0.112.0"
+  [[module.mounts]]
+    source = "assets"
+    target = "assets"
+  [[module.mounts]]
+    source = "hugo_stats.json"
+    target = "assets/watching/hugo_stats.json"
+
+[build]
+  writeStats = true
+  [[build.cachebusters]]
+    source = "assets/watching/hugo_stats\\.json"
+    target = "styles\\.css"
+  [[build.cachebusters]]
+    source = "(postcss|tailwind)\\.config\\.js"
+    target = "css"
+  [[build.cachebusters]]
+    source = "assets/.*\\.(js)"
+    target = "js"
+  [[build.cachebusters]]
+    source = "assets/.*\\.(.*)$"
+    target = "$1"
+
+[menu]
+[[menu.footer]]
+  name = "GitHub"
+  url = "https://github.com/nicokaiser/hugo-theme-gallery/"
+  weight = 3
