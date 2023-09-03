@@ -9,4 +9,4 @@ menu:
         weight: 1
 ---
 
-about test text
+I'm John Nguyen, a senior at Sheldon High School. I am passionate about learning new skills, and I was super excited to combine my photography and web development skills to make this portfolio!
