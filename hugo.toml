@@ -6,6 +6,7 @@ defaultContentLanguage = "en"
 enableRobotsTXT = true
 timeZone = "America/Los_Angeles"
 theme = "gallery"
+timeout = "500s"
 
 [params]
   title = "John's Portfolio"
