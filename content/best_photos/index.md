@@ -6,6 +6,7 @@ description: "Welcome to a collection of moments frozen in time by John Nguyen! 
 featured_image: tennis.jpg
 weight: 6
 featured: true
+private: false
 sort_by: Exif.Date
 sort_order: desc
 ---
