@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My Photography Portfolio on John&#39;s Portfolio</title>
+    <link>/</link>
+    <description>Recent content in My Photography Portfolio on John&#39;s Portfolio</description>
+    
+    <language>en-us</language>
+    <copyright>© John Nguyen 2023-24</copyright>
+    <lastBuildDate>Fri, 01 Sep 2023 19:15:28 -0700</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" /><item>
+      <title>Portfolio</title>
+      <link>/best_photos/</link>
+      <pubDate>Thu, 05 Oct 2023 06:04:51 -0700</pubDate>
+      
+      <guid>/best_photos/</guid><media:content url="/best_photos/tennis_hu2d1241d41767f58d4933760fb18e81ef_192448_900x600_fill_q100_lanczos_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;/best_photos/tennis_hu2d1241d41767f58d4933760fb18e81ef_192448_900x600_fill_q100_lanczos_smart1.jpg&quot; /&gt;
+          &lt;p&gt;Welcome to a collection of moments frozen in time by John Nguyen. Each photograph is a testament to my passion for capturing the world around me. From the vibrant hues of a sunset to the intricate details of everyday life, these images represent my unique perspective. They are more than just pictures; they are stories waiting to be told. Dive in and experience the world through my lens.&lt;/p&gt;
+        </description></item>
+  </channel>
+</rss>

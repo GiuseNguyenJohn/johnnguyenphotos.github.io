@@ -8,6 +8,6 @@ menu:
     main:
         weight: 1
 ---
-{{< figure src="/chess_portrait_bw.jpg" alt="self_portrait" style="align:center;" >}}
+{{< figure src="/camera_portrait.jpg" alt="self_portrait" style="align:center;" >}}
 
-I'm John Nguyen, a senior at Sheldon High School. I am passionate about learning new skills, and I was super excited to combine my photography and web development skills to make this portfolio!
+Welcome to the portfolio of John Nguyen, a dedicated senior at Sheldon High School with a keen eye for photography. My passion for acquiring new skills has led me to merge my love for photography with my proficiency in web development, resulting in the creation of this unique portfolio. Enjoy your journey through my lens!
